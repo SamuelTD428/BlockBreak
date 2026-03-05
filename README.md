@@ -15,9 +15,8 @@ To run BlockBreak exploit you'll need a copy of Minecraft: Xbox 360 Edition and 
 4. Place the unsigned executable you want to run when the exploit triggers into the BadUpdatePayload folder on the USB stick and name it "default.xex" (replace any existing file in the folder). This xex file must be in retail format and have all restrictions removed (see the wiki for how to do this).
 5. Insert the USB stick into your Xbox 360 console and power it on.
 6. Sign into the Player 1 profile and run the game you're using to trigger the exploit.
-    * If you're using Rock Band Blitz, there is no profile included. You can use any local/offline profile, or run the game completely signed out.
 7. Follow the instructions for the game you chose to load the hacked game save file and begin the exploit process.
-8. The console's ring of light will flash different colors/segments during the exploit process to indicate progress. For information on what the different values mean see the [LED Patterns and Meanings](https://github.com/grimdoomer/Xbox360BadUpdate/wiki/How-To-Use#led-patterns-and-meanings) section of the wiki.
+8. The console's ring of light will flash different colors/segments during the exploit process to indicate progress. For information on what the different values mean see the [LED Patterns and Meanings]([https://github.com/SamuelTD428/BlockBreak//wiki/How-To-Use#led-patterns-and-meanings]) section of the wiki.
 9. Once the exploit triggers successfully the RoL should be fully lit in green. The hypervisor has now been patched to run unsigned executables and your unsigned default.xex file will be run.
 
 The exploit has a 80% success rate and can take up to 1-2 minutes to trigger successfully. If after 3-5 minutes the exploit hasn't triggered you'll need to power off your Xbox 360 console and repeat the process from step 5.
